@@ -1,0 +1,13 @@
+{
+  "name": "editojson",
+  "version": "0.0.1",
+  "description": "",
+  "main": "edi.js",
+  "dependencies": {
+    "edi": "^1.1.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "author": "Arnold Shoon",
+  "license": "ISC"
+}
